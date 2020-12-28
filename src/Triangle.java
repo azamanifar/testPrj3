@@ -10,6 +10,7 @@ public class Triangle {
         if(s1==s3 || s1==s2 || s2==s3)
             return Tri.MOTESAVI;
         return Tri.GHEYREIN;
+		return Tri.Motesavi;
     }
 }
 enum Tri
